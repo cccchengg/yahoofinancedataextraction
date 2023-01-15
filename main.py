@@ -1,7 +1,4 @@
-"""
-@course : ISOM3400 L1
-@Student Info: Cheng Cheuk Yin (20858221)
-"""
+
 
 
 from selenium.webdriver.common.by import By
