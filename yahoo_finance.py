@@ -17,10 +17,6 @@ class yahoo_finance_website(object):
         
 
     def check_YahooFinance_site(self):
-        # This function needs to be overrided by student's program
-        # The function returns True if this is YahooFinance site
-        # # Otherwise it returns False 
-        
         print("This is Demo program")
         return False
     
