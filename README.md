@@ -1,8 +1,6 @@
 # yahoofinancedataextraction
 
-ISOM3400 Assignment Yahoo Finance Stock Data Extraction (for reference)
-
-Full marks for required assignment (15/15)
+ISOM3400 Assignment Yahoo Finance Stock Data Extraction 
 
 Use selenium to collect data from finance.yahoo.com from selected stock, save data as csv and apply data validation.
 
